@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.2.9">
+  <diagram name="Page-1" id="cGwZZC1KMxt-n--REI7g">
+    <mxGraphModel dx="247751" dy="129979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-2" target="Ap6lNGQJBwkeRjyPi6dz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-2" value="Client submits insurance request" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" vertex="1" parent="1">
+          <mxGeometry x="-246720" y="-128745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-4" target="Ap6lNGQJBwkeRjyPi6dz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-4" value="Manager registers the request" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" vertex="1" parent="1">
+          <mxGeometry x="-246560" y="-128745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-6" target="Ap6lNGQJBwkeRjyPi6dz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-6" value="Underwriter make analysing of the&amp;nbsp; client&#39;s history and risks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" vertex="1" parent="1">
+          <mxGeometry x="-246560" y="-128650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-8" target="Ap6lNGQJBwkeRjyPi6dz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-8" value="Calculating offer and contract" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" vertex="1" parent="1">
+          <mxGeometry x="-246560" y="-128540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-11" target="Ap6lNGQJBwkeRjyPi6dz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-11" target="Ap6lNGQJBwkeRjyPi6dz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-11" value="Does client suits company?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFB87;" vertex="1" parent="1">
+          <mxGeometry x="-246563" y="-128450" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-13" target="Ap6lNGQJBwkeRjyPi6dz-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-13" value="Manager shows offer to the client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" vertex="1" parent="1">
+          <mxGeometry x="-246350" y="-128440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-17" target="Ap6lNGQJBwkeRjyPi6dz-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-17" target="Ap6lNGQJBwkeRjyPi6dz-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-246090" y="-128250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-17" target="Ap6lNGQJBwkeRjyPi6dz-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-246090" y="-128715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-17" value="&lt;div&gt;Client make decision&lt;/div&gt;Accept / Decline / Negotiate" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFB87;" vertex="1" parent="1">
+          <mxGeometry x="-246190" y="-128460" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-246800" y="-128425" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-19" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-246800" y="-128730" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-19" target="Ap6lNGQJBwkeRjyPi6dz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-246720" y="-128730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-21" value="Start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-246815" y="-128760" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-22" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-246805" y="-128452.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Client negotiate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-246190" y="-128570" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-246670" y="-128450" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-246420" y="-128450" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-26" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-245855" y="-128422.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-27" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-245860" y="-128450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cllient decline&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-246000" y="-128442" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#B7FAFF;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-30" target="Ap6lNGQJBwkeRjyPi6dz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-30" value="Client pays for the policy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" vertex="1" parent="1">
+          <mxGeometry x="-246350" y="-128280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Client&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;accept&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-246220" y="-128290" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ap6lNGQJBwkeRjyPi6dz-33" target="Ap6lNGQJBwkeRjyPi6dz-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-33" value="Manager gives the policy to the client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" vertex="1" parent="1">
+          <mxGeometry x="-246560" y="-128280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-34" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-246800" y="-128265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ap6lNGQJBwkeRjyPi6dz-35" value="End" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-246805" y="-128295" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

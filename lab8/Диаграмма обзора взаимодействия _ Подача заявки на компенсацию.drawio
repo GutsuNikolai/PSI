@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.2.9">
+  <diagram name="Page-1" id="X8bI_0Np-TtljYG8_6HT">
+    <mxGraphModel dx="248680" dy="130406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-2" target="oXraS9KH9jNMzyNp-LBZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Client submits claim for compensation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" parent="1" vertex="1">
+          <mxGeometry x="-246730" y="-128720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-4" target="oXraS9KH9jNMzyNp-LBZ-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Manager registers the claim&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" parent="1" vertex="1">
+          <mxGeometry x="-246560" y="-128720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-6" target="oXraS9KH9jNMzyNp-LBZ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Claims adjuster makes analysing of the accident&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" parent="1" vertex="1">
+          <mxGeometry x="-246560" y="-128630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-11" target="oXraS9KH9jNMzyNp-LBZ-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-246200" y="-128490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-11" target="oXraS9KH9jNMzyNp-LBZ-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-11" value="&lt;div&gt;&lt;span style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Is the incident covered by the company?&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFB87;" parent="1" vertex="1">
+          <mxGeometry x="-246605" y="-128540" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-13" target="oXraS9KH9jNMzyNp-LBZ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Client doesn&#39;t receive compensation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" parent="1" vertex="1">
+          <mxGeometry x="-246270" y="-128460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-17" target="oXraS9KH9jNMzyNp-LBZ-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-17" target="oXraS9KH9jNMzyNp-LBZ-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-17" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Client makes decision:&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;Accept refusal&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;/&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;Negotiate&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFB87;" parent="1" vertex="1">
+          <mxGeometry x="-246310" y="-128365" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="-246859" y="-128355" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-19" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="-246859" y="-128705" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-19" target="oXraS9KH9jNMzyNp-LBZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-246800" y="-128740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-246844" y="-128690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Start&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-246874" y="-128745" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Client negotiate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-246446" y="-128335" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-246670" y="-128530" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Client accept refusal&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-246110" y="-128335" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-34" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="-245890" y="-128305" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-11" target="oXraS9KH9jNMzyNp-LBZ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-40" target="oXraS9KH9jNMzyNp-LBZ-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Claim is justing by the court&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" parent="1" vertex="1">
+          <mxGeometry x="-246560" y="-128320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;End&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-245905" y="-128335" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-45" target="oXraS9KH9jNMzyNp-LBZ-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-45" target="oXraS9KH9jNMzyNp-LBZ-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-45" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Court makes decision:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;to pay compensation&amp;nbsp;or not&amp;nbsp;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFB87;" parent="1" vertex="1">
+          <mxGeometry x="-246610" y="-128205" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-47" target="oXraS9KH9jNMzyNp-LBZ-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Company pays out compensation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" parent="1" vertex="1">
+          <mxGeometry x="-246760" y="-128370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Client doesn&#39;t receive compensation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B7FAFF;" parent="1" vertex="1">
+          <mxGeometry x="-246270" y="-128180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-246370" y="-128190" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-246660" y="-128190" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;End&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-246874" y="-128395" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-62" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;No&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-246350" y="-128530" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oXraS9KH9jNMzyNp-LBZ-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.633;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oXraS9KH9jNMzyNp-LBZ-19" target="oXraS9KH9jNMzyNp-LBZ-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
